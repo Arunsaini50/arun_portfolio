@@ -1,62 +1,48 @@
-# 💼 Arun Saini | Portfolio Website
+# 🌟 Arun Saini — Developer Portfolio
 
-Hi there! I'm **Arun Saini**, a passionate Full Stack Web Developer. This is my personal portfolio website built using **React.js**, **Tailwind CSS**, and powered by **EmailJS** for the contact form.
+🚀 Live Site: [arun12-portfolio.netlify.app](https://arun12-portfolio.netlify.app/)
 
-Explore my projects, know about me, and feel free to get in touch!
+Hi there! I'm **Arun Saini**, a passionate and self-driven full stack developer with a strong command over the **MERN Stack** and a focus on building modern, responsive, and high-performance web apps.
 
 ---
 
-## 🖼️ Live Preview
+## 🔍 Features
 
-🚀 [View Live Website]()
+- 👨‍💻 Fully responsive and modern UI
+- ✨ Glassmorphism effect on the landing page
+- ⌨️ Animated typing effect in hero section
+- 📖 About, Projects, and Contact sections
+- 📱 Mobile-friendly design using **Tailwind CSS**
+- ⚛️ Built with **React** for seamless component-based development
 
 ---
 
 ## 🛠️ Tech Stack
 
-- ⚛️ React.js
-- 💨 Tailwind CSS
-- 📧 EmailJS (for contact form)
-- 🌐 Vite
-- 🔁 Git & GitHub
+- **Frontend:** React.js, Tailwind CSS
+- **Deployment:** Netlify
+- **Version Control:** Git & GitHub
+
+---
+## 📂 Folder Structure
+
+
+portfolio/ ├── public/ └── src/ ├── components/ ├── assets/ ├── App.jsx └── index.js
+
 
 ---
 
-## 📁 Folder Structure
-portfolio/
-│
-├── frontend/            # React app
-│   ├── src/
-│   │   ├── components/  # Header, Home, About, Projects, Contact
-│   │   ├── assets/      # Images and backgrounds
-│   │   └── App.jsx
-│
-└── README.md
+## 🔗 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/arun-saini-cnb)
+- 📂 [GitHub](https://github.com/Arunsaini50)
 
 ---
 
-## 📬 Contact Me
+## 📌 Note
 
-You can send me a message directly through the contact form on the site, or reach out:
-
-- 📧 Email: [arun.cnb91@gmail](mailto:arun.cnb91@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/arun-saini-cnb](https://www.linkedin.com/in/arun-saini-cnb/)
-- 🐙 GitHub: [github.com/Arunsaini50](https://github.com/Arunsaini50)
+This portfolio is a part of my learning journey and reflects my frontend skills. I am open to internships, freelancing, and full-time developer roles.
 
 ---
 
-## 🔒 Security Note
-
-This project uses **EmailJS** to securely handle form submissions without needing a backend. No private keys are stored in the repo.
-
----
-
-## 🙏 Acknowledgements
-
-- Inspired by modern dev portfolios on Dribbble & Behance
-- Thanks to open-source community & React devs 🚀
-
----.
-
-
-
+### Made with ❤️ by Arun Saini
