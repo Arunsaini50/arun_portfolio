@@ -14,10 +14,10 @@ const projects = [
     link: "https://github.com/Arunsaini50/portfolio",
   },
   {
-    title: "Blog Platform",
-    description: "A full-stack blogging platform with user authentication and CRUD features.",
-    techStack: "React, Node.js, MongoDB",
-    link: "#",
+    title: "Recipe Finder",
+    description: "SpiceHunt is a modern recipe finder web app to discover and explore delicious dishes from around the world.",
+    techStack: "React, Tailwind CSS, Vite ,Framer Motion,TheMealDB API",
+    link: "https://spicehunt.netlify.app/",
   },
 ];
 
